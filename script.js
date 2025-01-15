@@ -14,6 +14,7 @@ document.addEventListener('DOMContentLoaded', function () {
      //         generateQuestions(content);
      //     })
      //     .catch(error => console.error('There has been a problem with your fetch operation:', error));
+     updateFloatingButton();
 });
 
 document.getElementById('fileInput').addEventListener('change', function (event) {
@@ -23,6 +24,7 @@ document.getElementById('fileInput').addEventListener('change', function (event)
           reader.onload = function (e) {
                const content = e.target.result;
                generateQuestions(content);
+               updateFloatingButton();
           };
           reader.readAsText(file);
      }
@@ -94,10 +96,20 @@ function addQuestionToContainer(questionNumber, question, answers, correctAnswer
                } else {
                     answerItem.classList.add('incorrect');
                }
+               updateFloatingButton();
           });
           answersList.appendChild(answerItem);
      });
 
      questionDiv.appendChild(answersList);
      document.getElementById('questionsContainer').appendChild(questionDiv);
+}
+
+function updateFloatingButton() {
+     const totalQuestions = document.querySelectorAll('.question').length;
+     const correctAnswers = document.querySelectorAll('.answers li.correct').length;
+     const incorrectAnswers = document.querySelectorAll('.answers li.incorrect').length;
+
+     const floatingButton = document.getElementById('floatingButton');
+     floatingButton.innerHTML = `<span>Q-${totalQuestions} <span style="color: green;">C-${correctAnswers}</span> <span style="color: red;">I-${incorrectAnswers}</span></span>`;
 }
