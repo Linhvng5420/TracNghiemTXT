@@ -1,298 +1,304 @@
-1: Một Đô Bao Nhiêu Tiền VNĐ?
+Title: Câu Hỏi Tổng Hợp
+SubTitle: 50 Câu Hỏi Thú Vị
+SubTitle: 50 Câu Hỏi Thú Vị Về Đa Dạng Chủ Đề
+SubTitle: 50 Câu Hỏi Thú Vị Về Đa Dạng Chủ Đề
+
+Questions
+1. Một Đô Bao Nhiêu Tiền VNĐ?
 A: 5.000 VNĐ
 B: 10.000 VNĐ
 -C: 25.000 VNĐ
 D: 50.000 VNĐ
 
-2: Thủ đô của Việt Nam là gì?
+2. Thủ đô của Việt Nam là gì?
 A: Hồ Chí Minh
 B: Đà Nẵng
-C: Hải Phòng
--D: Hà Nội
+-C: Hải Phòng
+D: Hà Nội
 
-3: Quốc gia nào lớn nhất thế giới?
+3. Quốc gia nào lớn nhất thế giới?
 A: Trung Quốc
 B: Canada
 -C: Nga
 D: Hoa Kỳ
 
-4: Ngày Quốc khánh Việt Nam là ngày nào?
+4. Ngày Quốc khánh Việt Nam là ngày nào?
 A: 30/4
 B: 19/5
 -C: 2/9
 D: 1/1
 
-5: Ai là người sáng lập ra Microsoft?
+5. Ai là người sáng lập ra Microsoft?
 A: Steve Jobs
 B: Elon Musk
 -C: Bill Gates
 D: Mark Zuckerberg
 
-6: Ngôn ngữ lập trình nào phổ biến nhất hiện nay?
+6. Ngôn ngữ lập trình nào phổ biến nhất hiện nay?
 A: Ruby
 B: PHP
 -C: Python
 D: Swift
 
-7: Tác giả của cuốn sách "Harry Potter" là ai?
+7. Tác giả của cuốn sách "Harry Potter" là ai?
 A: J.R.R. Tolkien
 B: George R.R. Martin
 -C: J.K. Rowling
 D: Stephen King
 
-8: Hành tinh nào gần Mặt Trời nhất?
+8. Hành tinh nào gần Mặt Trời nhất?
 A: Sao Hỏa
 B: Sao Thổ
 -C: Sao Thủy
 D: Sao Kim
 
-9: Ai là tổng thống đầu tiên của Hoa Kỳ?
+9. Ai là tổng thống đầu tiên của Hoa Kỳ?
 A: Abraham Lincoln
 B: Thomas Jefferson
 -C: George Washington
 D: John Adams
 
-10: Ngày lễ Giáng sinh được tổ chức vào ngày nào?
+10. Ngày lễ Giáng sinh được tổ chức vào ngày nào?
 A: 31/12
 B: 1/1
 -C: 25/12
 D: 24/12
 
-11: Đơn vị đo lường điện năng là gì?
+11. Đơn vị đo lường điện năng là gì?
 A: Ampe
 B: Volt
 -C: Watt
 D: Ohm
 
-12: Tác giả của bài thơ "Truyện Kiều" là ai?
+12. Tác giả của bài thơ "Truyện Kiều" là ai?
 A: Nguyễn Trãi
 B: Hồ Xuân Hương
 -C: Nguyễn Du
 D: Tố Hữu
 
-13: Quốc gia nào có dân số đông nhất thế giới?
+13. Quốc gia nào có dân số đông nhất thế giới?
 A: Ấn Độ
 B: Hoa Kỳ
 -C: Trung Quốc
 D: Indonesia
 
-14: Ai là người phát minh ra bóng đèn điện?
+14. Ai là người phát minh ra bóng đèn điện?
 A: Nikola Tesla
 B: Alexander Graham Bell
 -C: Thomas Edison
 D: Albert Einstein
 
-15: Ngày Quốc tế Phụ nữ là ngày nào?
+15. Ngày Quốc tế Phụ nữ là ngày nào?
 A: 1/5
 B: 20/10
 -C: 8/3
 D: 30/4
 
-16: Tác giả của cuốn sách "Chiến tranh và hòa bình" là ai?
+16. Tác giả của cuốn sách "Chiến tranh và hòa bình" là ai?
 A: Charles Dickens
 B: Mark Twain
 -C: Leo Tolstoy
 D: Fyodor Dostoevsky
 
-17: Ngày Tết Nguyên Đán của Việt Nam thường rơi vào tháng nào?
+17. Ngày Tết Nguyên Đán của Việt Nam thường rơi vào tháng nào?
 A: Tháng 12
 B: Tháng 2
 -C: Tháng 1
 D: Tháng 3
 
-18: Ai là người phát minh ra máy bay?
+18. Ai là người phát minh ra máy bay?
 A: Thomas Edison
 B: Alexander Graham Bell
 -C: Anh em nhà Wright
 D: Nikola Tesla
 
-19: Quốc gia nào có diện tích nhỏ nhất thế giới?
+19. Quốc gia nào có diện tích nhỏ nhất thế giới?
 A: Monaco
 B: San Marino
 -C: Vatican
 D: Liechtenstein
 
-20: Ai là người sáng lập ra Apple?
+20. Ai là người sáng lập ra Apple?
 A: Bill Gates
 B: Larry Page
 -C: Steve Jobs
 D: Jeff Bezos
 
-21: Ngày Quốc tế Lao động là ngày nào?
+21. Ngày Quốc tế Lao động là ngày nào?
 A: 1/6
 B: 2/9
 -C: 1/5
 D: 30/4
 
-22: Tác giả của cuốn sách "Đắc nhân tâm" là ai?
+22. Tác giả của cuốn sách "Đắc nhân tâm" là ai?
 A: Napoleon Hill
 B: Stephen Covey
 -C: Dale Carnegie
 D: Tony Robbins
 
-23: Quốc gia nào có nền kinh tế lớn nhất thế giới?
+23. Quốc gia nào có nền kinh tế lớn nhất thế giới?
 A: Nhật Bản
 B: Đức
 -C: Hoa Kỳ
 D: Trung Quốc
 
-24: Ai là người phát minh ra điện thoại?
+24. Ai là người phát minh ra điện thoại?
 A: Thomas Edison
 B: Nikola Tesla
 -C: Alexander Graham Bell
 D: Guglielmo Marconi
 
-25: Ngày Quốc tế Thiếu nhi là ngày nào?
+25. Ngày Quốc tế Thiếu nhi là ngày nào?
 A: 1/5
 B: 20/11
 -C: 1/6
 D: 30/4
 
-26: Tác giả của cuốn sách "Những người khốn khổ" là ai?
+26. Tác giả của cuốn sách "Những người khốn khổ" là ai?
 A: Charles Dickens
 B: Mark Twain
 -C: Victor Hugo
 D: Leo Tolstoy
 
-27: Quốc gia nào có diện tích lớn thứ hai thế giới?
+27. Quốc gia nào có diện tích lớn thứ hai thế giới?
 A: Hoa Kỳ
 B: Trung Quốc
 -C: Canada
 D: Brazil
 
-28: Ai là người phát minh ra máy tính?
+28. Ai là người phát minh ra máy tính?
 A: Thomas Edison
 B: Nikola Tesla
 -C: Charles Babbage
 D: Alan Turing
 
-29: Ngày Quốc tế Hòa bình là ngày nào?
+29. Ngày Quốc tế Hòa bình là ngày nào?
 A: 1/1
 B: 24/12
 -C: 21/9
 D: 25/12
 
-30: Tác giả của cuốn sách "Bố già" là ai?
+30. Tác giả của cuốn sách "Bố già" là ai?
 A: Stephen King
 B: J.K. Rowling
 -C: Mario Puzo
 D: George R.R. Martin
 
-31: Quốc gia nào có dân số lớn thứ hai thế giới?
+31. Quốc gia nào có dân số lớn thứ hai thế giới?
 A: Hoa Kỳ
 B: Indonesia
 -C: Ấn Độ
 D: Brazil
 
-32: Ai là người phát minh ra radio?
+32. Ai là người phát minh ra radio?
 A: Thomas Edison
 B: Alexander Graham Bell
 -C: Guglielmo Marconi
 D: Nikola Tesla
 
-33: Ngày Quốc tế Thiếu nhi là ngày nào?
+33. Ngày Quốc tế Thiếu nhi là ngày nào?
 A: 1/5
 B: 20/11
 -C: 1/6
 D: 30/4
 
-34: Tác giả của cuốn sách "Cuốn theo chiều gió" là ai?
+34. Tác giả của cuốn sách "Cuốn theo chiều gió" là ai?
 A: Charles Dickens
 B: Mark Twain
 -C: Margaret Mitchell
 D: Leo Tolstoy
 
-35: Quốc gia nào có diện tích lớn thứ ba thế giới?
+35. Quốc gia nào có diện tích lớn thứ ba thế giới?
 A: Hoa Kỳ
 B: Trung Quốc
 -C: Canada
 D: Brazil
 
-36: Ai là người phát minh ra máy in?
+36. Ai là người phát minh ra máy in?
 A: Thomas Edison
 B: Alexander Graham Bell
 -C: Johannes Gutenberg
 D: Nikola Tesla
 
-37: Ngày Quốc tế Phụ nữ là ngày nào?
+37. Ngày Quốc tế Phụ nữ là ngày nào?
 A: 1/5
 B: 20/10
 -C: 8/3
 D: 30/4
 
-38: Tác giả của cuốn sách "Những người khốn khổ" là ai?
+38. Tác giả của cuốn sách "Những người khốn khổ" là ai?
 A: Charles Dickens
 B: Mark Twain
 -C: Victor Hugo
 D: Leo Tolstoy
 
-39: Quốc gia nào có diện tích lớn thứ tư thế giới?
+39. Quốc gia nào có diện tích lớn thứ tư thế giới?
 A: Hoa Kỳ
 B: Trung Quốc
 -C: Canada
 D: Brazil
 
-40: Ai là người phát minh ra máy tính?
+40. Ai là người phát minh ra máy tính?
 A: Thomas Edison
 B: Nikola Tesla
 -C: Charles Babbage
 D: Alan Turing
 
-41: Ngày Quốc tế Hòa bình là ngày nào?
+41. Ngày Quốc tế Hòa bình là ngày nào?
 A: 1/1
 B: 24/12
 -C: 21/9
 D: 25/12
 
-42: Tác giả của cuốn sách "Bố già" là ai?
+42. Tác giả của cuốn sách "Bố già" là ai?
 A: Stephen King
 B: J.K. Rowling
 -C: Mario Puzo
 D: George R.R. Martin
 
-43: Quốc gia nào có dân số lớn thứ hai thế giới?
+43. Quốc gia nào có dân số lớn thứ hai thế giới?
 A: Hoa Kỳ
 B: Indonesia
 -C: Ấn Độ
 D: Brazil
 
-44: Ai là người phát minh ra radio?
+44. Ai là người phát minh ra radio?
 A: Thomas Edison
 B: Alexander Graham Bell
 -C: Guglielmo Marconi
 D: Nikola Tesla
 
-45: Ngày Quốc tế Thiếu nhi là ngày nào?
+45. Ngày Quốc tế Thiếu nhi là ngày nào?
 A: 1/5
 B: 20/11
 -C: 1/6
 D: 30/4
 
-46: Tác giả của cuốn sách "Cuốn theo chiều gió" là ai?
+46. Tác giả của cuốn sách "Cuốn theo chiều gió" là ai?
 A: Charles Dickens
 B: Mark Twain
 -C: Margaret Mitchell
 D: Leo Tolstoy
 
-47: Quốc gia nào có diện tích lớn thứ ba thế giới?
+47. Quốc gia nào có diện tích lớn thứ ba thế giới?
 A: Hoa Kỳ
 B: Trung Quốc
 -C: Canada
 D: Brazil
 
-48: Ai là người phát minh ra máy in?
+48. Ai là người phát minh ra máy in?
 A: Thomas Edison
 B: Alexander Graham Bell
 -C: Johannes Gutenberg
 D: Nikola Tesla
 
-49: Ngày Quốc tế Phụ nữ là ngày nào?
+49. Ngày Quốc tế Phụ nữ là ngày nào?
 A: 1/5
 B: 20/10
 -C: 8/3
 D: 30/4
 
-50: Tác giả của cuốn sách "Những người khốn khổ" là ai?
+50. Tác giả của cuốn sách "Những người khốn khổ" là ai?
 A: Charles Dickens
 B: Mark Twain
 -C: Victor Hugo
