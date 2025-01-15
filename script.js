@@ -131,4 +131,27 @@ function updateFloatingButton() {
 
      const floatingButton = document.getElementById('floatingButton');
      floatingButton.innerHTML = `<span>Q-${totalQuestions} <span style="color: green;">C-${correctAnswers}</span> <span style="color: red;">I-${incorrectAnswers}</span></span>`;
+
+     if (correctAnswers + incorrectAnswers === totalQuestions && totalQuestions > 0) {
+          showDialog(totalQuestions, correctAnswers, incorrectAnswers);
+     }
+}
+
+function showDialog(totalQuestions, correctAnswers, incorrectAnswers) {
+     const dialog = document.createElement('div');
+     dialog.classList.add('dialog');
+
+     dialog.innerHTML = `
+          <h2>Thông tin chi tiết</h2>
+          <p>Tổng số câu hỏi: ${totalQuestions}</p>
+          <p>Số câu đúng: ${correctAnswers}</p>
+          <p>Số câu sai: ${incorrectAnswers}</p>
+          <button id="closeDialog">Đóng</button>
+     `;
+
+     document.body.appendChild(dialog);
+
+     document.getElementById('closeDialog').addEventListener('click', function () {
+          document.body.removeChild(dialog);
+     });
 }

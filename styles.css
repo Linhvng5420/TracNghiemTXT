@@ -148,3 +148,35 @@ h1 {
 .search-button:hover {
      background-color: #0000001c;
 }
+
+/* Dialog styles */
+.dialog {
+     position: fixed;
+     top: 50%;
+     left: 50%;
+     transform: translate(-50%, -50%);
+     background-color: #fff;
+     padding: 20px;
+     border: 1px solid #ccc;
+     border-radius: 10px;
+     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+     z-index: 1001;
+}
+
+.dialog h2 {
+     margin-top: 0;
+}
+
+.dialog button {
+     margin-top: 20px;
+     padding: 10px 20px;
+     border: none;
+     border-radius: 5px;
+     background-color: #4CAF50;
+     color: #fff;
+     cursor: pointer;
+}
+
+.dialog button:hover {
+     background-color: #45a049;
+}
