@@ -14,6 +14,7 @@ document.addEventListener('DOMContentLoaded', function () {
      //         generateQuestions(content);
      //     })
      //     .catch(error => console.error('There has been a problem with your fetch operation:', error));
+     document.getElementById('instructions').style.display = 'block';
      updateFloatingButton();
 });
 
@@ -28,6 +29,7 @@ document.getElementById('fileInput').addEventListener('change', function (event)
           };
           reader.readAsText(file);
      }
+     document.getElementById('instructions').style.display = 'none';
 });
 
 function generateQuestions(content) {

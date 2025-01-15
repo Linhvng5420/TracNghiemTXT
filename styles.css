@@ -52,12 +52,81 @@ h1 {
      font-style: italic;
 }
 
+#instructions {
+     background-color: #f9f9f9;
+     /* Nền nhạt giúp dễ nhìn */
+     border: 1px solid #ddd;
+     /* Viền mỏng để phân biệt vùng */
+     border-radius: 8px;
+     /* Bo tròn các góc */
+     padding: 20px;
+     /* Khoảng cách bên trong để nội dung không bị sát */
+     font-family: 'Arial', sans-serif;
+     /* Phông chữ dễ đọc */
+     color: #333;
+     /* Màu chữ tối nhưng không quá đậm */
+     max-width: 600px;
+     /* Đặt chiều rộng tối đa để nội dung không quá dài */
+     margin: 20px auto;
+     /* Căn giữa nội dung */
+     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+     /* Tạo hiệu ứng nổi nhẹ */
+}
+
+#instructions p {
+     font-size: 16px;
+     /* Kích thước chữ vừa phải */
+     line-height: 1.6;
+     /* Tăng khoảng cách dòng để dễ đọc */
+     margin: 10px 0;
+     /* Khoảng cách giữa các đoạn văn */
+}
+
+#instructions pre {
+     background-color: #f4f4f4;
+     /* Nền nhạt cho mã hoặc văn bản cần nổi bật */
+     border: 1px solid #ccc;
+     /* Viền mỏng để làm nổi bật khung */
+     border-radius: 6px;
+     /* Bo tròn nhẹ cho khung */
+     padding: 15px;
+     /* Tạo khoảng cách bên trong */
+     font-size: 14px;
+     /* Chữ nhỏ hơn một chút cho mã */
+     font-family: 'Courier New', monospace;
+     /* Phông chữ kiểu monospaced cho mã */
+     color: #555;
+     /* Màu chữ trung tính */
+     overflow-x: auto;
+     /* Cho phép cuộn ngang nếu nội dung quá dài */
+}
+
+#instructions strong {
+     color: #007BFF;
+     /* Màu xanh nổi bật cho chữ in đậm */
+}
+
+#instructions code {
+     background-color: #e7f3ff;
+     /* Nền xanh nhạt cho mã */
+     color: #0056b3;
+     /* Màu xanh đậm để dễ nhìn */
+     padding: 2px 4px;
+     /* Tạo khoảng cách nhẹ */
+     border-radius: 4px;
+     /* Bo tròn nhẹ */
+     font-family: 'Courier New', monospace;
+     /* Phông chữ đặc trưng cho mã */
+}
+
+
 .question {
      border: 1px solid #ccc;
      border-radius: 5px;
      margin-bottom: 10px;
      padding: 10px;
      border-bottom: 2px solid #ddd;
+     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
      width: 48%;
      box-sizing: border-box;
 }
