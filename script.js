@@ -91,12 +91,22 @@ function addQuestionToContainer(questionNumber, question, answers, correctAnswer
           const answerItem = document.createElement('li');
           answerItem.textContent = `${answer.label}: ${answer.text}`;
           answerItem.addEventListener('click', function () {
-               if (answer.label === correctAnswer) {
-                    answerItem.classList.add('correct');
-               } else {
-                    answerItem.classList.add('incorrect');
+               // Ensure only one answer can be selected and cannot be changed
+               if (!answerItem.parentNode.classList.contains('answered')) {
+                    const siblings = answerItem.parentNode.children;
+                    for (let sibling of siblings) {
+                         sibling.classList.remove('correct', 'incorrect', 'user-selected');
+                         if (sibling.textContent.startsWith(correctAnswer)) {
+                              sibling.classList.add('correct');
+                         }
+                    }
+                    if (answer.label !== correctAnswer) {
+                         answerItem.classList.add('incorrect');
+                    }
+                    answerItem.classList.add('user-selected');
+                    answerItem.parentNode.classList.add('answered');
+                    updateFloatingButton();
                }
-               updateFloatingButton();
           });
           answersList.appendChild(answerItem);
      });
@@ -107,8 +117,8 @@ function addQuestionToContainer(questionNumber, question, answers, correctAnswer
 
 function updateFloatingButton() {
      const totalQuestions = document.querySelectorAll('.question').length;
-     const correctAnswers = document.querySelectorAll('.answers li.correct').length;
-     const incorrectAnswers = document.querySelectorAll('.answers li.incorrect').length;
+     const correctAnswers = document.querySelectorAll('.answers li.correct.user-selected').length;
+     const incorrectAnswers = document.querySelectorAll('.answers li.incorrect.user-selected').length;
 
      const floatingButton = document.getElementById('floatingButton');
      floatingButton.innerHTML = `<span>Q-${totalQuestions} <span style="color: green;">C-${correctAnswers}</span> <span style="color: red;">I-${incorrectAnswers}</span></span>`;
