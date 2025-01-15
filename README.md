@@ -30,16 +30,17 @@ Title:
 SubTitle: 
 
 Questions
-1. Một Đô Bao Nhiêu Tiền VNĐ?
-A: 5.000 VNĐ
-B: 10.000 VNĐ
--C: 25.000 VNĐ
-D: 50.000 VNĐ
+1. Flutter is primarily used for?
+A: Backend development
+-B: Cross-platform mobile development
+C: Data analysis
+D: Game development
 
-2. Một Đô Bao Nhiêu Tiền VNĐ?
-A: 5.000 VNĐ
-B: 10.000 VNĐ
--C: 25.000 VNĐ
-D: 50.000 VNĐ
+2. What programming language is used by Flutter?
+A: JavaScript
+-B: Dart
+C: Python
+D: Kotlin
 
-Câu trả lời đúng sẽ có "-" phía trước.```
+Câu trả lời đúng sẽ có "-" phía trước.
+```
