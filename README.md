@@ -45,3 +45,6 @@ D: Kotlin
 
 Câu trả lời đúng sẽ có "-" phía trước.
 ```
+
+### Hướng Dẫn Sử Dụng
+<img src="HD.png" alt="Alt text">
