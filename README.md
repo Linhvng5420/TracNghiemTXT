@@ -1,3 +1,4 @@
+<link rel="stylesheet" type="text/css" href="style.css">
 <div id="instructions">
           <p>Vui lòng chọn một tệp TXT chứa các câu hỏi để bắt đầu.</p>
           <p><strong>Yêu cầu cấu trúc file:</strong></p>
