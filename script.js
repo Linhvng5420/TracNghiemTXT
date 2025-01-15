@@ -82,6 +82,15 @@ function addQuestionToContainer(questionNumber, question, answers, correctAnswer
 
      const questionTitle = document.createElement('h2');
      questionTitle.textContent = `${questionNumber}. ${question}`;
+
+     const searchButton = document.createElement('button');
+     searchButton.classList.add('search-button');
+     searchButton.addEventListener('click', function () {
+          const query = encodeURIComponent(question);
+          window.open(`https://www.google.com/search?q=${query}`, '_blank');
+     });
+
+     questionTitle.appendChild(searchButton);
      questionDiv.appendChild(questionTitle);
 
      const answersList = document.createElement('ul');

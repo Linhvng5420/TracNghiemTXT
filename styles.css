@@ -66,6 +66,9 @@ h1 {
      margin-bottom: -10px;
      color: #333;
      font-size: 16px;
+     display: flex;
+     justify-content: space-between;
+     align-items: center;
 }
 
 .answers {
@@ -122,4 +125,26 @@ h1 {
 #floatingButton span {
      display: flex;
      gap: 10px;
+}
+
+.search-button {
+     background-color: transparent;
+     color: white;
+     border: none;
+     border-radius: 5px;
+     cursor: pointer;
+     font-size: 0px;
+     margin-left: 10px;
+     display: flex;
+     align-items: center;
+     justify-content: center;
+}
+
+.search-button::before {
+     content: "\1F50E";
+     font-size: 16px;
+}
+
+.search-button:hover {
+     background-color: #0000001c;
 }
