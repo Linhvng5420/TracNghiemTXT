@@ -1,0 +1,5 @@
+inputFormatters: [FilteringTextinputFormatters: [
+                      FilteringTextInputFormatter.digitsOnly,
+                      ThousandsSeparatorInputFormatter()
+                    ],
+keyboardType: TextInputType.number,

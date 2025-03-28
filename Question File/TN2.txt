@@ -1,7 +1,7 @@
 Title: Câu Hỏi Tổng Hợp
 SubTitle: 50 Câu Hỏi Thú Vị
 SubTitle: 50 Câu Hỏi Thú Vị Về Đa Dạng Chủ Đề
-SubTitle: 50 Câu Hỏi Thú Vị Về Đa Dạng Chủ Đề
+SubTitle: Kiểm Thử Với Kết Quả C
 
 Questions
 1. Một Đô Bao Nhiêu Tiền VNĐ?
